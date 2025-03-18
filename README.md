@@ -1,4 +1,4 @@
-# Flipkart EDA
+# Flipkart Customer Support Analysis
 
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) project on Flipkart customer support data. The analysis is conducted using Python and Jupyter Notebook to extract meaningful insights from the dataset.
