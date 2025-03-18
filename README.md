@@ -17,21 +17,6 @@ This repository contains an Exploratory Data Analysis (EDA) project on Flipkart 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Flipkart_EDA.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Flipkart_EDA
-   ```
-3. Open the Jupyter Notebook:
-   ```sh
-   jupyter notebook Flipkart_EDA.ipynb
-   ```
-4. Run the cells step by step to explore the analysis.
-
 ## Contributions
 Feel free to fork this repository and contribute by submitting pull requests.
 
